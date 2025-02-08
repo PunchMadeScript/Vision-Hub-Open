@@ -6,7 +6,7 @@ local scripts = {
     [987654321] = "https://raw.githubusercontent.com/PunchMadeScript/Basketball-Legends/refs/heads/main/Souce",  -- Basketball Legends
     [123456789] = "https://raw.githubusercontent.com/PunchMadeScript/Football-Legends/refs/heads/main/Gui", -- Fisch
     [987654321] = "https://raw.githubusercontent.com/PunchMadeScript/Streetball/refs/heads/main/Gui",       -- GunFight Arena
-    [123456789] = "https://raw.githubusercontent.com/PunchMadeScript/Football-Legends/refs/heads/main/Gui", -- HeadTap
+    [15558033314] = "https://raw.githubusercontent.com/PunchMadeScript/Hoop-Nation-2/refs/heads/main/Free%20Gui", -- HeadTap
     [6229116934] = "https://raw.githubusercontent.com/PunchMadeScript/Vision-Hoopz/refs/heads/main/Gui",       -- Hoopz
 
     -- Add more Place IDs and script URLs here
